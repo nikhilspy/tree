@@ -137,11 +137,22 @@ DATABASES = {
 #Register
 ![Screenshot (148)](https://user-images.githubusercontent.com/62988235/187326519-40250297-0d0b-4b19-af9e-242339bd1994.png)
 
-#Loggedin
+#Loggedin![Screenshot_20220830-065227_Chrome](https://user-images.githubusercontent.com/62988235/187327673-f578734b-20b2-4ae3-81a3-b4c5294acdbc.jpg)
+
 ![Screenshot (149)](https://user-images.githubusercontent.com/62988235/187326571-76eea516-36e8-46b2-8a5d-eadad83eff5c.png)
 
-Deployment 
+#Deployment 
 ![Screenshot (151)](https://user-images.githubusercontent.com/62988235/187326626-b402717d-8340-4f29-b552-7caf502c9d6d.png)
+
+
+#Responsive 
+
+![Screenshot_20220830-065744_Chrome](https://user-images.githubusercontent.com/62988235/187327965-39edffac-8496-4d43-bf2b-9130d0ca6a6a.jpg)
+
+![Screenshot_20220830-065227_Chrome](https://user-images.githubusercontent.com/62988235/187328010-14c15545-794a-4dd9-8e40-6787509c0c75.jpg)
+
+![Screenshot_20220830-065918_Chrome](https://user-images.githubusercontent.com/62988235/187328025-25aa4457-93ac-44a9-bdf8-0925a88f9bdf.jpg)
+
 
 
 ## live deploment
