@@ -122,30 +122,31 @@ DATABASES = {
 
 
 ## Screen Shot 
-#Home
+# Home
 ![Screenshot (143)](https://user-images.githubusercontent.com/62988235/187326332-97e0850a-3f56-45a5-a79a-c1093a9bc4a5.png)
 
-#About 
+# About 
 ![Screenshot (144)](https://user-images.githubusercontent.com/62988235/187326366-916cbaf7-81cf-42f0-b397-1e80a10b9355.png)
 
-#Contact
+# Contact
 ![Screenshot (145)](https://user-images.githubusercontent.com/62988235/187326404-954c7038-73b4-43de-8366-903b2400b8c4.png)
 
-#Login
+# Login
 ![Screenshot (147)](https://user-images.githubusercontent.com/62988235/187326443-39ad234c-3a34-42c6-8985-e2732dd41a29.png)
 
-#Register
+# Register
 ![Screenshot (148)](https://user-images.githubusercontent.com/62988235/187326519-40250297-0d0b-4b19-af9e-242339bd1994.png)
 
-#Loggedin![Screenshot_20220830-065227_Chrome](https://user-images.githubusercontent.com/62988235/187327673-f578734b-20b2-4ae3-81a3-b4c5294acdbc.jpg)
+# Loggedin
+![Screenshot_20220830-065227_Chrome](https://user-images.githubusercontent.com/62988235/187327673-f578734b-20b2-4ae3-81a3-b4c5294acdbc.jpg)
 
 ![Screenshot (149)](https://user-images.githubusercontent.com/62988235/187326571-76eea516-36e8-46b2-8a5d-eadad83eff5c.png)
 
-#Deployment 
+# Deployment 
 ![Screenshot (151)](https://user-images.githubusercontent.com/62988235/187326626-b402717d-8340-4f29-b552-7caf502c9d6d.png)
 
 
-#Responsive 
+# Responsive 
 
 ![Screenshot_20220830-065744_Chrome](https://user-images.githubusercontent.com/62988235/187327965-39edffac-8496-4d43-bf2b-9130d0ca6a6a.jpg)
 
