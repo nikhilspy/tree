@@ -123,6 +123,7 @@ DATABASES = {
 
 ## Screen Shot 
 #Home 
+![plot](./screenshot/Screenshot (143).png)
 
 
 ## live deploment
