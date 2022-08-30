@@ -123,7 +123,14 @@ DATABASES = {
 
 ## Screen Shot 
 #Home 
-![plot](./screenshot/Screenshot (143).png)
+![plot](./screenshot/Sc![Screenshot (143)](https://user-images.githubusercontent.com/62988235/187326069-24f6c670-0231-4bec-8ad0-3f22eb341eef.png)
+reenshot (143).png)
+
+#About
+
+#Contact
+
+
 
 
 ## live deploment
