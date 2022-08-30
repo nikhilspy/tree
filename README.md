@@ -126,7 +126,7 @@ DATABASES = {
 
 
 ## live deploment
-1. <a href="https://www.google.com/" target="_blank">Github</a>
+1. <a href="https://github.com/nikhilspy/tree" target="_blank">Github</a>
 2. <a href="https://nikhil-xenon.herokuapp.com/" target="_blank">Heroku</a>
 
 
