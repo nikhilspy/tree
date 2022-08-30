@@ -122,15 +122,26 @@ DATABASES = {
 
 
 ## Screen Shot 
-#Home 
-![plot](./screenshot/Sc![Screenshot (143)](https://user-images.githubusercontent.com/62988235/187326069-24f6c670-0231-4bec-8ad0-3f22eb341eef.png)
-reenshot (143).png)
+#Home
+![Screenshot (143)](https://user-images.githubusercontent.com/62988235/187326332-97e0850a-3f56-45a5-a79a-c1093a9bc4a5.png)
 
-#About
+#About 
+![Screenshot (144)](https://user-images.githubusercontent.com/62988235/187326366-916cbaf7-81cf-42f0-b397-1e80a10b9355.png)
 
 #Contact
+![Screenshot (145)](https://user-images.githubusercontent.com/62988235/187326404-954c7038-73b4-43de-8366-903b2400b8c4.png)
 
+#Login
+![Screenshot (147)](https://user-images.githubusercontent.com/62988235/187326443-39ad234c-3a34-42c6-8985-e2732dd41a29.png)
 
+#Register
+![Screenshot (148)](https://user-images.githubusercontent.com/62988235/187326519-40250297-0d0b-4b19-af9e-242339bd1994.png)
+
+#Loggedin
+![Screenshot (149)](https://user-images.githubusercontent.com/62988235/187326571-76eea516-36e8-46b2-8a5d-eadad83eff5c.png)
+
+Deployment 
+![Screenshot (151)](https://user-images.githubusercontent.com/62988235/187326626-b402717d-8340-4f29-b552-7caf502c9d6d.png)
 
 
 ## live deploment
